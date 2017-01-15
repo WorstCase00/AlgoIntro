@@ -1,6 +1,7 @@
 package edu.mst.algo.unionfind;
 
-import edu.mst.Utils;
+
+import edu.mst.algo.common.Utils;
 
 public class NaiveArrayUnionFind implements UnionFind {
 

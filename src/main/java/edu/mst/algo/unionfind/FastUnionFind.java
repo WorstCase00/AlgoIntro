@@ -1,6 +1,8 @@
 package edu.mst.algo.unionfind;
 
-import edu.mst.Utils;
+import edu.mst.algo.common.Utils;
+
+import java.util.Set;
 
 public class FastUnionFind implements UnionFind {
 
